@@ -1,4 +1,4 @@
-import { useState, type FormEvent } from "react";
+import { useState } from "react";
 import classNames from "classnames";
 import "./App.scss";
 import { CustomCheckbox } from "./ui/CustomCheckbox";
